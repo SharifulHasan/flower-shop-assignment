@@ -40,3 +40,41 @@
     margin-bottom: 25px;
     font-size: 18px;
 }
+
+
+/* Main Section Styles */
+.instagram{
+    text-align: center;
+}
+.instagram-title{
+    margin-bottom: 15px;
+    margin-top: 15px;
+}
+.instagram-description{
+    padding-left: 350px;
+    padding-right: 350px;
+}
+.flower-photos{
+    display: flex;
+    justify-content: space-around;
+    gap: 15px;
+    padding-left:100px ;
+    padding-right: 100px;
+    margin-top: 30px;
+}
+.fp1{
+    width: 220px;
+    height: 260px;
+}
+.fp2{
+    width: 220px;
+    height: 260px;
+}
+.fp3{
+    width: 220px;
+    height: 260px;
+}
+.fp4{
+    width: 220px;
+    height: 260px;
+}
