@@ -1,0 +1,42 @@
+/* Shared Area */
+* {
+    margin: 0;
+}
+
+/* Header Styles */
+.header {
+    background-color: #E554731A;
+}
+
+.header {
+    display: flex;
+    align-items: center;
+    gap: 90px;
+}
+
+.header-left {
+    margin-left: 200px;
+}
+
+.header-img {
+    width: 400px;
+    height: 470px;
+    margin-right: 200px;
+}
+
+.btn-primary {
+    border-radius: 8px;
+    background: #E55473;
+    color: #FFFFFF;
+    font-size: 20px;
+    border: 0;
+    padding: 12px 20px;
+}
+.header-title{
+    margin-bottom: 25px;
+    font-size: 40px;
+}
+.header-description{
+    margin-bottom: 25px;
+    font-size: 18px;
+}
