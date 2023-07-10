@@ -49,10 +49,12 @@
 .instagram-title{
     margin-bottom: 15px;
     margin-top: 15px;
+    text-align: center;
 }
 .instagram-description{
     padding-left: 350px;
     padding-right: 350px;
+    text-align: center;
 }
 .flower-photos{
     display: flex;
