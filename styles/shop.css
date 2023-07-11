@@ -61,7 +61,7 @@
 .optional {
     display: flex;
     align-items: center;
-    margin-left: 265px;
+    margin-left: 210px;
     gap: 25px;
 
 }
@@ -87,11 +87,13 @@
     padding: 20px 25px 0px 25px;
     display: block;
 }
-.img-title{
+
+.img-title {
     display: flex;
+    justify-content: left;
     align-items: center;
     gap: 130px;
-    margin-left: 300px;
+    margin-left: 240px;
 }
 
 .top-image-title {
@@ -99,10 +101,41 @@
     padding-left: 50px;
     color: #111010;
     margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+
+/* main middle styles */
+.main-middle {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 8px;
+    background: rgba(229, 84, 115, 0.05);
+    gap: 50px;
+}
+
+.middle-left {
+    max-width: 50%;
+    text-align: center;
+}
+
+.middle-description {
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-size: 13px;
+    padding: 15px 50px 15px 100px;
+}
+
+.middle-img {
+    width: 220px;
+    height: 260px;
+    padding: 70px 200px 70px 20px;
 }
 
 .instagram {
     text-align: center;
+    margin-top: 50px;
 }
 
 .instagram-title {
