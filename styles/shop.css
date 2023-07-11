@@ -32,51 +32,96 @@
     border: 0;
     padding: 12px 20px;
 }
-.header-title{
+
+.header-title {
     margin-bottom: 25px;
     font-size: 40px;
 }
-.header-description{
+
+.header-description {
     margin-bottom: 25px;
     font-size: 18px;
 }
 
 
 /* Main Section Styles */
-.instagram{
+.instagram {
     text-align: center;
 }
-.instagram-title{
+
+.instagram-title {
     margin-bottom: 15px;
     margin-top: 15px;
     text-align: center;
 }
-.instagram-description{
+
+.instagram-description {
     padding-left: 350px;
     padding-right: 350px;
     text-align: center;
 }
-.flower-photos{
+
+.flower-photos {
     display: flex;
     justify-content: space-around;
     gap: 15px;
-    padding-left:100px ;
+    padding-left: 100px;
     padding-right: 100px;
     margin-top: 30px;
 }
-.fp1{
+
+.fp1 {
     width: 220px;
     height: 260px;
 }
-.fp2{
+
+.fp2 {
     width: 220px;
     height: 260px;
 }
-.fp3{
+
+.fp3 {
     width: 220px;
     height: 260px;
 }
-.fp4{
+
+.fp4 {
     width: 220px;
     height: 260px;
+}
+
+/* main lower part styles */
+.main-lower {
+    background-image: url('../Flower Asset/Rectangle 9.png');
+    min-height: 100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    margin: 100px 120px;
+    text-align: center;
+    padding-bottom: 100px;
+}
+.main-lower-container{
+    padding-top: 100px;
+}
+
+.lower-title {
+    /* padding-top: 100px; */
+}
+
+.lower-description {
+    padding-bottom: 12px;
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-size: 18px;
+}
+
+.lower-form {
+    padding-bottom: 50px;
+}
+
+.lower-mail {
+    width: 400px;
+    height: 40px;
+    padding-right: 15px;
 }
