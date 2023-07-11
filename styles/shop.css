@@ -182,17 +182,17 @@
 /* main lower part styles */
 .main-lower {
     background-image: url('../Flower Asset/Rectangle 9.png');
-    min-height: 100%;
-    background-size: cover;
+    background-size:170vh;
     background-repeat: no-repeat;
     background-position: center;
-    margin: 100px 120px;
+    margin: 50px 120px;
     text-align: center;
     padding-bottom: 100px;
+    display: block;
 }
 
 .main-lower-container {
-    padding-top: 100px;
+    padding-top: 150px;
 }
 
 .lower-title {
