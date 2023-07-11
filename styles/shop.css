@@ -41,6 +41,8 @@
 .header-description {
     margin-bottom: 25px;
     font-size: 18px;
+    color: rgba(39, 39, 39, 0.60);
+    font-size: 13px;
 }
 
 
@@ -148,6 +150,8 @@
     padding-left: 350px;
     padding-right: 350px;
     text-align: center;
+    color: rgba(39, 39, 39, 0.60);
+    font-size: 13px;
 }
 
 .flower-photos {
@@ -182,7 +186,7 @@
 /* main lower part styles */
 .main-lower {
     background-image: url('../Flower Asset/Rectangle 9.png');
-    background-size:170vh;
+    background-size: 170vh;
     background-repeat: no-repeat;
     background-position: center;
     margin: 50px 120px;
@@ -204,6 +208,7 @@
     color: rgba(39, 39, 39, 0.60);
     text-align: center;
     font-size: 18px;
+    padding-top: 15px;
 }
 
 .lower-form {
@@ -223,17 +228,25 @@
     text-align: center;
     padding-bottom: 50px;
 }
-.contact-header{
+
+.contact-header {
     padding-top: 50px;
     padding-bottom: 20px;
 }
-.social-links{
+
+.social-links {
     padding: 10px;
 }
-.social-links a{
+
+.social-links a {
     padding-left: 10px;
     padding-right: 10px;
     padding-top: 10px;
+}
+
+.contact-description {
+    color: rgba(39, 39, 39, 0.60);
+    font-size: 18px;
 }
 
 
